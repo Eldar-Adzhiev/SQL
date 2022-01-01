@@ -1,11 +1,11 @@
 # SQL HW_1
 
-Подключится к 
-Host: 159.69.151.133
-Port: 5056
-User: train_user
-Pass: 123
-Table: qa_users
+>Подключится к   
+>Host: 159.69.151.133  
+>Port: 5056  
+>User: train_user  
+>Pass: 123  
+>Table: qa_users
 
  1. Вывести все поля и все строки.
  2. Вывести всех студентов в таблице
